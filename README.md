@@ -1,4 +1,5 @@
-## Hi there! My name is Mosfiqur Rahman 👋
+## Hi, I'm Mosfiqur Rahman
+A front-end developer passionate about crafting modern, high-performance web experiences. I combine clean design with cutting-edge technologies to build interfaces that are fast, accessible, and visually engaging. 👋
 
 <!--
 **MosfiqurRubel/MosfiqurRubel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
